@@ -1,0 +1,6 @@
+[submodule "custom"]
+	path = custom
+	url = https://zone01normandie.org/git/adebadie/custom.git
+[submodule "piscine-go"]
+	path = piscine-go
+	url = https://zone01normandie.org/git/adebadie/piscine-go.git
