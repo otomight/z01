@@ -4,3 +4,6 @@
 [submodule "piscine-go"]
 	path = piscine-go
 	url = https://zone01normandie.org/git/adebadie/piscine-go.git
+[submodule "go-reloaded"]
+	path = go-reloaded
+	url = https://zone01normandie.org/git/adebadie/go-reloaded.git
