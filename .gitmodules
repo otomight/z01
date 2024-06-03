@@ -7,3 +7,6 @@
 [submodule "go-reloaded"]
 	path = go-reloaded
 	url = https://zone01normandie.org/git/adebadie/go-reloaded.git
+[submodule "test"]
+	path = test
+	url = https://zone01normandie.org/git/adebadie/custom.git
