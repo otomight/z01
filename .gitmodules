@@ -9,7 +9,7 @@
 	url = https://zone01normandie.org/git/adebadie/go-reloaded.git
 [submodule "ascii-art"]
 	path = ascii-art
-	url = ./ascii-art
+	url = https://zone01normandie.org/git/tkorhone/ascii-art
 [submodule "math-skills"]
 	path = math-skills
-	url = ./math-skills
+	url = https://zone01normandie.org/git/adebadie/math-skills.git
