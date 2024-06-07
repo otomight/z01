@@ -13,3 +13,6 @@
 [submodule "math-skills"]
 	path = math-skills
 	url = https://zone01normandie.org/git/adebadie/math-skills.git
+[submodule "ascii-art-fs"]
+	path = ascii-art-fs
+	url = https://zone01normandie.org/git/adebadie/ascii-art-fs.git
