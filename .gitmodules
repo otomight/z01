@@ -8,11 +8,11 @@
 	path = go-reloaded
 	url = https://zone01normandie.org/git/adebadie/go-reloaded.git
 [submodule "ascii-art"]
-	path = ascii-art
+	path = ascii-art/ascii-art
 	url = https://zone01normandie.org/git/tkorhone/ascii-art
 [submodule "math-skills"]
 	path = math-skills
 	url = https://zone01normandie.org/git/adebadie/math-skills.git
 [submodule "ascii-art-fs"]
-	path = ascii-art-fs
+	path = ascii-art/ascii-art-fs
 	url = https://zone01normandie.org/git/adebadie/ascii-art-fs.git
