@@ -16,3 +16,6 @@
 [submodule "ascii-art-fs"]
 	path = ascii-art/ascii-art-fs
 	url = https://zone01normandie.org/git/adebadie/ascii-art-fs.git
+[submodule "ascii-art/ascii-art-output"]
+	path = ascii-art/ascii-art-output
+	url = https://zone01normandie.org/git/adebadie/ascii-art-output.git
