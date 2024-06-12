@@ -19,3 +19,6 @@
 [submodule "ascii-art-output"]
 	path = ascii-art/ascii-art-output
 	url = https://zone01normandie.org/git/adebadie/ascii-art-output.git
+[submodule "ascii-art/ascii-art-color"]
+	path = ascii-art/ascii-art-color
+	url = https://zone01normandie.org/git/adebadie/ascii-art-color.git
