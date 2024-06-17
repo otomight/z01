@@ -25,3 +25,6 @@
 [submodule "ascii-art/ascii-art-color"]
 	path = ascii-art/ascii-art-color
 	url = https://zone01normandie.org/git/adebadie/ascii-art-color.git
+[submodule "ascii-art/ascii-art-web"]
+	path = ascii-art/ascii-art-web
+	url = https://zone01normandie.org/git/tkorhone/ascii-art-web.git
