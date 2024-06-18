@@ -28,3 +28,6 @@
 [submodule "ascii-art/ascii-art-web"]
 	path = ascii-art/ascii-art-web
 	url = https://zone01normandie.org/git/tkorhone/ascii-art-web.git
+[submodule "ascii-art/ascii-art-web-stylize"]
+	path = ascii-art/ascii-art-web-stylize
+	url = https://zone01normandie.org/git/tkorhone/ascii-art-web-stylize.git
