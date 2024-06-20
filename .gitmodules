@@ -31,3 +31,9 @@
 [submodule "ascii-art/ascii-art-web-stylize"]
 	path = ascii-art/ascii-art-web-stylize
 	url = https://zone01normandie.org/git/tkorhone/ascii-art-web-stylize.git
+[submodule "ascii-art/ascii-art-web-dockerize"]
+	path = ascii-art/ascii-art-web-dockerize
+	url = https://zone01normandie.org/git/adebadie/ascii-art-web-dockerize.git
+[submodule "ascii-art/ascii-art-web-export-file"]
+	path = ascii-art/ascii-art-web-export-file
+	url = https://zone01normandie.org/git/adebadie/ascii-art-web-export-file.git
