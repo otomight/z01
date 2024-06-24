@@ -37,3 +37,6 @@
 [submodule "ascii-art/ascii-art-web-export-file"]
 	path = ascii-art/ascii-art-web-export-file
 	url = https://zone01normandie.org/git/adebadie/ascii-art-web-export-file.git
+[submodule "groupie-tracker"]
+	path = groupie-tracker
+	url = https://zone01normandie.org/git/rdecaux/groupie-tracker.git
