@@ -46,3 +46,6 @@
 [submodule "c/wget"]
 	path = c/wget
 	url = https://zone01normandie.org/git/adebadie/wget.git
+[submodule "c/atm-management-system"]
+	path = c/atm-management-system
+	url = https://zone01normandie.org/git/adebadie/atm-management-system.git
