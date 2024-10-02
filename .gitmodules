@@ -49,3 +49,6 @@
 [submodule "c/atm-management-system"]
 	path = c/atm-management-system
 	url = https://zone01normandie.org/git/adebadie/atm-management-system.git
+[submodule "go/lem-in"]
+	path = go/lem-in
+	url = https://zone01normandie.org/git/adebadie/lem-in.git
