@@ -52,3 +52,6 @@
 [submodule "go/lem-in"]
 	path = go/lem-in
 	url = https://zone01normandie.org/git/adebadie/lem-in.git
+[submodule "python/piscineIA/numpy"]
+	path = python/piscineIA/numpy
+	url = https://zone01normandie.org/git/adebadie/numpy.git
