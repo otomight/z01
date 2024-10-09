@@ -55,3 +55,6 @@
 [submodule "python/piscineIA/numpy"]
 	path = python/piscineIA/numpy
 	url = https://zone01normandie.org/git/adebadie/numpy.git
+[submodule "python/piscineIA/pandas"]
+	path = python/piscineIA/pandas
+	url = https://zone01normandie.org/git/adebadie/pandas.git
