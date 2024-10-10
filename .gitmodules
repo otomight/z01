@@ -58,3 +58,6 @@
 [submodule "python/piscineIA/pandas"]
 	path = python/piscineIA/pandas
 	url = https://zone01normandie.org/git/adebadie/pandas.git
+[submodule "python/piscineIA/visualizations"]
+	path = python/piscineIA/visualizations
+	url = https://zone01normandie.org/git/adebadie/visualizations.git
