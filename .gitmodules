@@ -61,3 +61,6 @@
 [submodule "python/piscineIA/visualizations"]
 	path = python/piscineIA/visualizations
 	url = https://zone01normandie.org/git/adebadie/visualizations.git
+[submodule "python/piscineIA/data-wrangling"]
+	path = python/piscineIA/data-wrangling
+	url = https://zone01normandie.org/git/adebadie/data-wrangling.git
