@@ -64,3 +64,6 @@
 [submodule "python/piscineIA/data-wrangling"]
 	path = python/piscineIA/data-wrangling
 	url = https://zone01normandie.org/git/adebadie/data-wrangling.git
+[submodule "go/forum"]
+	path = go/forum
+	url = https://zone01normandie.org/git/tvallois/Forum.git
