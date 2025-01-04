@@ -13,33 +13,12 @@
 [submodule "go/piscine-go"]
 	path = go/piscine-go
 	url = https://zone01normandie.org/git/adebadie/piscine-go.git
-[submodule "go/ascii-art/ascii-art"]
-	path = go/ascii-art/ascii-art
+[submodule "go/ascii-art"]
+	path = go/ascii-art
 	url = https://zone01normandie.org/git/tkorhone/ascii-art.git
-[submodule "go/ascii-art/ascii-art-color"]
-	path = go/ascii-art/ascii-art-color
-	url = https://zone01normandie.org/git/adebadie/ascii-art-color.git
-[submodule "go/ascii-art/ascii-art-fs"]
-	path = go/ascii-art/ascii-art-fs
-	url = https://zone01normandie.org/git/adebadie/ascii-art-fs.git
-[submodule "go/ascii-art/ascii-art-justify"]
-	path = go/ascii-art/ascii-art-justify
-	url = https://zone01normandie.org/git/adebadie/ascii-art-justify.git
-[submodule "go/ascii-art/ascii-art-output"]
-	path = go/ascii-art/ascii-art-output
-	url = https://zone01normandie.org/git/adebadie/ascii-art-output.git
-[submodule "go/ascii-art-web/ascii-art-web"]
-	path = go/ascii-art-web/ascii-art-web
+[submodule "go/ascii-art-web"]
+	path = go/ascii-art-web
 	url = https://zone01normandie.org/git/tkorhone/ascii-art-web.git
-[submodule "go/ascii-art-web/ascii-art-web-dockerize"]
-	path = go/ascii-art-web/ascii-art-web-dockerize
-	url = https://zone01normandie.org/git/adebadie/ascii-art-web-dockerize.git
-[submodule "go/ascii-art-web/ascii-art-web-export-file"]
-	path = go/ascii-art-web/ascii-art-web-export-file
-	url = https://zone01normandie.org/git/adebadie/ascii-art-web-export-file.git
-[submodule "go/ascii-art-web/ascii-art-web-stylize"]
-	path = go/ascii-art-web/ascii-art-web-stylize
-	url = https://zone01normandie.org/git/tkorhone/ascii-art-web-stylize.git
 [submodule "git"]
 	path = git
 	url = https://zone01normandie.org/git/adebadie/git.git
